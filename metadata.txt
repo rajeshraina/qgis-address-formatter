@@ -1,11 +1,12 @@
 [general]
 name=MyQGISPlugin
 qgisMinimumVersion=3.0
-description=This plugin provides useful tools for QGIS users to [briefly explain purpose].
+description=A QGIS plugin for formatting and standardizing address fields in attribute tables.
 version=1.0
 author=Rajesh
 email=rajeshraina619@gmail.com
 about=This plugin is designed to [describe in 1–2 sentences what your plugin does].
-tracker=https://github.com/rajeshraina619/MyQGISPlugin/issues
-repository=https://github.com/rajeshraina619/MyQGISPlugin
+tracker=https://github.com/rajeshraina/qgis-address-formatter/issues
+repository=https://github.com/rajeshraina/qgis-address-formatter
 category=Plugins
+
