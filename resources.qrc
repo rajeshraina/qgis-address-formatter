@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/plugins/address_formatter" >
+   <file>icon.png</file>
+  </qresource>
+</RCC>
