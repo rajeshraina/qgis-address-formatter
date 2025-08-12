@@ -5,8 +5,10 @@ description=A QGIS plugin for formatting and standardizing address fields in att
 version=1.0
 author=Rajesh
 email=rajeshraina619@gmail.com
-about=This plugin is designed to [describe in 1–2 sentences what your plugin does].
+about=This plugin is designed to standardize and format address fields in QGIS attribute tables, ensuring consistent capitalization, spacing, and structure for cleaner data management.
+homepage=https://github.com/rajeshraina/qgis-address-formatter
 tracker=https://github.com/rajeshraina/qgis-address-formatter/issues
 repository=https://github.com/rajeshraina/qgis-address-formatter
 category=Plugins
+
 
